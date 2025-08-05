@@ -1,4 +1,4 @@
 # rustlings
 
-Progress: [#######################>--------------------------------------------------------------------------------]  21/94
-Current exercise: exercises/04_primitive_types/primitive_types5.rs
+Progress: [####################>---------------------------------------------------------]  25/94
+Current exercise: exercises/06_move_semantics/move_semantics1.rs
